@@ -1,0 +1,43 @@
+{  
+    "ApexClass":[  
+        {  
+            "name":"Default",
+            "file_name":"ApexClass.cls",
+            "description":"The default template for an Apex Class",
+            "author":"Sapient",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"IQV_MyApexClass"
+                }
+            ]
+        },
+        {  
+            "name":"No Constructor",
+            "file_name":"ApexClassNoConstructor.cls",
+            "description":"The default template for an Apex Class",
+            "author":"Sapient",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"IQV_MyApexClass"
+                }
+            ]
+        },
+        {  
+            "name":"Unit Test",
+            "file_name":"UnitTestApexClass.cls",
+            "description":"Unit test class",
+            "author":"Sapient",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"IQV_MyApexClass"
+                }
+            ]
+        }
+    ]
+}
