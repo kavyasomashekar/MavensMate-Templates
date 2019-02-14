@@ -14,7 +14,7 @@
             ]
         },
         {  
-            "name":"default(No Constructor)",
+            "name":"Default(No Constructor)",
             "file_name":"ApexClassNoConstructor.cls",
             "description":"The default template for an Apex Class",
             "author":"Sapient",
