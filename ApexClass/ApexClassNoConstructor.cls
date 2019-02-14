@@ -13,7 +13,7 @@ public with sharing class {{ api_name }} {
     * @example
     * {{ api_name }}.method_one('test');    
     */
-    public static <returnType> method_one(<parametereType> <parametereName>){
+    public static void method_one(){
 	
 	}
 	
